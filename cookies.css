@@ -1,0 +1,63 @@
+body {
+    background-image: url(https://img-3.journaldesfemmes.fr/6ThvZj9MUxZ0CBCysevrqg1mldg=/1500x/smart/a24c1f448ca8462ca16ad0a9444de4d3/ccmcms-jdf/14589840.jpg);
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+
+h1 {
+    text-align: center;
+    font-size: 3em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: lightgray 5px 5px;
+    background-color: whitesmoke;
+    border-radius: 30px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+div {
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: black 1px 1px;
+    color: lightgray;
+    border-radius: 30px;
+}
+
+h3 {
+    font-size: 1.5em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: black 1px 1px;
+    color: lightgray;
+    border-radius: 30px;
+}
+
+ul {
+    font-size: 1.2em;
+    list-style-type: square;
+}
+
+ol {
+    font-size: 1.2em;
+    list-style-type: square;
+}
+
+section {
+    background-color: whitesmoke;
+    max-width: 50%;
+    border-radius: 30px;
+    padding: 50px;
+    margin: auto;
+}
+
+img {
+    max-width: 50%;
+}
+
