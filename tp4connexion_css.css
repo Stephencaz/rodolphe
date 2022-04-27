@@ -1,0 +1,56 @@
+form {
+    background-color: gray;
+    height: 250px; width: 400px;
+    border:solid;
+}
+
+h1 {
+    text-align: center;
+    background-color: green;
+}
+
+#firstName {
+    margin-left: 20px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+
+}
+
+#pwd {
+    margin-left: 20px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+#boutons {
+    text-align: center;
+    margin-top: 20px;
+    padding: 5px;
+    background-color: yellow;
+}
+
+.prenom {
+    padding-left: 20px;
+    background-color: red;
+}
+
+.mdp {
+    padding-left: 20px;
+    background-color: blue;
+}
+
+#checkMemory {
+    margin-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.labelCheck {
+    padding-left: 10px;
+    background-color: purple;
+    
+}
+
+#resetBouton {
+    margin-left: 5px;
+}

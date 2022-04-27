@@ -1,0 +1,65 @@
+
+h1 {
+    text-align: center;
+}
+
+.t1 {
+    padding: 5px;
+    width: 50%;
+}
+
+.t2 {
+    background-color: grey;
+    width: 50%;
+    margin-left: 50%;
+
+}
+
+.t3 {
+    width: 50%;
+    padding: 5px;
+}
+
+.t4 {
+
+    background-color: grey;
+    width: 50%;
+    margin-left: 50%;
+
+}
+
+.t5 {
+
+    width: 50%;
+    padding: 5px;
+}
+
+.t6 {
+    background-color: gray;
+    width: 50%;
+    margin-left: 50%;
+
+}
+
+.ensemble {
+    border: solid blue;
+    border-radius: 10px;
+    width: 75%;
+}
+
+.users {
+    padding: 1%;
+    margin-left: 80%;
+    margin-right: 5%;
+    border: solid blue;
+    border-radius: 5%;
+}
+
+#boutons {
+    margin-right: 13%;
+    text-align: right;
+}
+
+ul {
+    list-style-type: none;
+}
